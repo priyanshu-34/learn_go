@@ -8,5 +8,6 @@ func main(){
 	// closure()
 	// _range()
 	// pointer()
-	stringAndRunes()
+	// stringAndRunes()
+	_struct()
 }

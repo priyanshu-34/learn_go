@@ -9,5 +9,6 @@ func main(){
 	// _range()
 	// pointer()
 	// stringAndRunes()
-	_struct()
+	// _struct()
+	_interface()
 }

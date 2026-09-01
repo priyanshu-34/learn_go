@@ -28,5 +28,4 @@ func pointer(){
 	pointerFunc(b)
 	fmt.Println("Value of b after pointerFunc:", *b)
 
-
 }

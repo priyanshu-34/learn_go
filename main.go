@@ -7,5 +7,6 @@ func main(){
 	// function()
 	// closure()
 	// _range()
-	pointer()
+	// pointer()
+	stringAndRunes()
 }

@@ -10,5 +10,6 @@ func main(){
 	// pointer()
 	// stringAndRunes()
 	// _struct()
-	_interface()
+	// _interface()
+	enum()
 }

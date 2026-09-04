@@ -11,5 +11,6 @@ func main(){
 	// stringAndRunes()
 	// _struct()
 	// _interface()
-	enum()
+	// enum()
+	_error()
 }

@@ -12,5 +12,6 @@ func main(){
 	// _struct()
 	// _interface()
 	// enum()
-	_error()
+	// _error()
+	goroutines()
 }
